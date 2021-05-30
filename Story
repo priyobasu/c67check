@@ -1,2 +1,4 @@
 TOday we are going to learn about git commands.
 We will be learning something new
+
+we will be learning some new commands like git log, git diff and git checkout
